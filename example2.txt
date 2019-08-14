@@ -1,2 +1,2 @@
 Look at this new file!
-added new text to new-file
+added from new-file-feature
